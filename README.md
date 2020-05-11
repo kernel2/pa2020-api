@@ -1,4 +1,4 @@
-# pa2020 : API
+# pa2020 : API RESTful
 
 > Application réalisée en JAVA 11 Spring Boot
 
