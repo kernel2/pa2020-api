@@ -1,4 +1,4 @@
-# pa2020 : Client lourd
+# pa2020 : API
 
 > Application réalisée en JAVA 11 Spring Boot
 
